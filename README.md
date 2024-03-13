@@ -24,3 +24,4 @@ pip install pandas
 ```
 mlflow server --host 127.0.0.1 --port 8080
 ```
+![Imgur](https://imgur.com/BWyZW40.jpg)
