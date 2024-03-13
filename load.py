@@ -22,7 +22,7 @@ accuracy = 0.85
 
 params = {
     "solver": "lbfgs",
-    "max_iter": 400,
+    "max_iter": 1200,
     "multi_class": "auto",
     "random_state": 8888,
 }
